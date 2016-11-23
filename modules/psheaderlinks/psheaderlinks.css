@@ -1,0 +1,15 @@
+.ps-header-links {
+	padding-top:4px;
+	float: left;
+}
+
+.ps-header-links ul{
+	list-style-type: none;
+}
+
+.ps-header-links ul li{
+	float: left;
+	margin-right:6px;
+	padding-right:6px;
+	border-right:1px solid #202020;
+}
